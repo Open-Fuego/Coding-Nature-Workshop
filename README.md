@@ -6,36 +6,87 @@ https://docs.google.com/document/d/1r3KyP4Xr0gNp5WK4czwRWoNsnG4OR9YIlJZL_IRsRuY/
 
 ### Schedule:
 * Introductions
-* Goals 
-* *What exactly is my nature outing?*
-* *Why code multimodal texts?* 
+* Purpose 
+* *What exactly is My Nature Outing?* and Why code multimodal texts?* 
+* Text Editors - Setting up Atom for Windows and CodePad for Chromebooks 
+* README: getting started working with My Nature Outing
 * Digital Capture
-* Nature Walk and Break
-* Asset Transfer
-* Setting up Atom for Windows and CodePad for Chromebooks 
-* README: getting started working with Open Fuego
+* Nature Walk and Break 
+* Asset Transfer and Code Editing (Small Groups)
+* Lunch 12:00-12:50
+* Code Editing (Small Groups)
 * Publishing to GitHub
 * Sharing Out
+* Reflection
+* Additional Resources
 
-## Goals 
+## Introduction
+Name, Pronouns, School, Grade Level, Subject
 
-* Goal 1
-* Goal 2
-* Goal 3
-* Goal 4
 
-## *What exactly is My Nature Outing?*   
+## Purpose 
+
+* Collect audio and visual assets through connecting with Nature
+	* Where is the value in intertwining nature and technology?
+* Create a multimedia/multimodal website to share your experience
+	* What jobs could this be useful in?
+* Share your perspectives with the people around you through your website
+	* How could the world change if we made more observations accessible?
+	* Are there any dangers as to how observations might be shared?
+* Connect Coding Nature to Environmental Justice and Data Science
+	* Environmental Justice is the fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income, with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies. EJ is an important part of the struggle to improve and maintain a clean and healthful environment, especially for those who have traditionally lived, worked, and played closest to the sources of pollution (EPA, 2017). 
+	* Guiding Questions
+		* How can we ensure that everyone has access to a healthy environment to live, learn, and work in?
+		* How can we use data to understand where (or how) environmental issues impact communities with high poverty more than other communities?
+		* What environmental justices/injustices exist in my community?
+		* How can we ensure everyone has a voice in the conversation about sustainability and protecting the environment?
+		* How do citizens use data to advocate for environmental needs in their community?
+
+
+## *What exactly is My Nature Outing?...and why code multimodal texts?*   
 
 [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/) 
 
 [My Nature Study](https://sjquigley.github.io/mutimodal-nature-studies/)
 
 
-Samples:
+Samples: https://lunadog524.github.io/My-Nature-Outing/
 
-## *Why code multimodal texts?*
 
-Think Coding + Nature 
+## Text Editors 
+
+Setting up Atom for Windows and CodePad for Chromebooks 
+
+### (Mac)
+
+
+1. Download "**Atom**" from **Atom.io**
+1. Add HTML Preview 
+	- from the dropdown menu, select **Atom>Preferences>Install**
+	- In the search bar type "**HTML Preview**." 
+	- Select the package built by "**HARMSK**." Click "**Install**."
+1. Adjust text wrapping 
+	 -	from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your viewer tab.)
+
+### (Windows)
+
+1. Download "**Atom**" from **Atom.io**
+1. Add HTML Preview - from the dropdown menu, select **File>Settings.** In the tab that loads select **+Install** 
+1. In the search bar type "**HTML Preview**." 
+1. Select the package built by "**HARMSK**." Click "**Install**."
+1. Adjust text wrapping - from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your viewer tab.)
+
+### (Chromebook)
+
+1. Download "**Code Pad Text Editor**" from Chrome Web Store. 
+1. From the dropdown menu, select **Editor>IDE Preferences**
+1. Toggle "**Word wrap limit**" to the middle value (this will force lines of code to conform to your viewer tab.)
+
+## README: Get Started working with My Nature Outing
+
+1. Go to repository [My Nature Outing GitHub Repository](https://github.com/Open-Fuego/my-nature-outing)
+
+
 
 
 ## Digital Capture
@@ -70,34 +121,37 @@ Now let's go experiment.
 -Collect Words
 
 
-##Text Editor Setup
- 
-### (Mac)
+## Lunch 12:00-12:50
+
+## Code Editing (Small Groups)
+
+## Publishing to GitHub
+
+See the README (7-10) [My Nature Outing GitHub Repository](https://github.com/Open-Fuego/my-nature-outing)
+
+## Sharing Out
+
+Let's share the URL to our Nature Outing.[Submit HERE](https://docs.google.com/presentation/d/1c3kWG7F4a_oJU62Eoxz9jOAXZ6S5KRp2CWUS5asbH0I/edit?usp=sharing)
 
 
-1. Download "**Atom**" from **Atom.io**
-1. Add HTML Preview 
-	- from the dropdown menu, select **Atom>Preferences>Install**
-	- In the search bar type "**HTML Preview**." 
-	- Select the package built by "**HARMSK**." Click "**Install**."
-1. Adjust text wrapping 
-	 -	from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your viewer tab.)
 
-### (Windows)
+## Reflection
 
-1. Download "**Atom**" from **Atom.io**
-1. Add HTML Preview - from the dropdown menu, select **File>Settings.** In the tab that loads select **+Install** 
-1. In the search bar type "**HTML Preview**." 
-1. Select the package built by "**HARMSK**." Click "**Install**."
-1. Adjust text wrapping - from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your viewer tab.)
-
-### (Chromebook)
-
-1. Download "**Code Pad Text Editor**" from Chrome Web Store. 
-1. From the dropdown menu, select **Editor>IDE Preferences**
-1. Toggle "**Word wrap limit**" to the middle value (this will force lines of code to conform to your viewer tab.)
-
-
+* Collect audio and visual assets through connecting with Nature
+	* Where is the value in intertwining nature and technology?
+* Create a multimedia/multimodal website to share your experience
+	* What jobs could this be useful in?
+* Share your perspectives with the people around you through your website
+	* How could the world change if we made more observations accessible?
+	* Are there any dangers as to how observations might be shared?
+* Connect Coding Nature to Environmental Justice and Data Science
+	* Environmental Justice is the fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income, with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies. EJ is an important part of the struggle to improve and maintain a clean and healthful environment, especially for those who have traditionally lived, worked, and played closest to the sources of pollution (EPA, 2017). 
+	* Guiding Questions
+		* How can we ensure that everyone has access to a healthy environment to live, learn, and work in?
+		* How can we use data to understand where (or how) environmental issues impact communities with high poverty more than other communities?
+		* What environmental justices/injustices exist in my community?
+		* How can we ensure everyone has a voice in the conversation about sustainability and protecting the environment?
+		* How do citizens use data to advocate for environmental needs in their community?
 
 
 
@@ -112,31 +166,7 @@ Now let's go experiment.
 
 
 
-## Get started!
 
-1. Go to repository [My Nature Outing GitHub Repository](https://github.com/Open-Fuego/my-nature-outing)
-
-2. Click **Code** then **Download ZIP** to your local computer. 
-
-3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera. 
-
-4. Download and/or open a text editor like [atom.io](https://atom.io), or [notepad-plus-plus.org](notepad-plus-plus.org). 
-
-5. Use the text editor to open the **style.css** and **index.html** documents from your project folder.  
-
-6. Start working with code by reading through the **index.html** where you'll find instructions on how to build your own web text! 
-
-7. Once you have modified and added your files to your project file, you will want to publish to the web. GitHub provides a good publishing solution for "free." Create a GitHub account, then create a new repository for this webtext. Click  "uploading an existing file," (push) your files into this repository. You'll need ALL of your assets to make your webtext function properly. Upload assets, then click "Commit changes." 
-
-8. Now go to your repository "settings." Scroll down to "GitHub Pages" and change the setting from "none" to "main." Hit "Save"
-
-9. This will provide you with a published GitHub URL.
-
-10. Test the URL in a browser. Magic, no? Actually, it's computer science.  
-
-
-
-Check out our other cool coding tools [HERE](https://open-fuego.github.io/Open-Fuego-Coding-Tools/)
 
 
 
