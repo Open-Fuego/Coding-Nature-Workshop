@@ -1,7 +1,5 @@
 # *Coding Nature*
-##### Welcome to our My Nature Outing Workshop 
-
-https://docs.google.com/document/d/1r3KyP4Xr0gNp5WK4czwRWoNsnG4OR9YIlJZL_IRsRuY/edit
+##### Welcome to *My Nature Outing* Workshop 
 
 
 ### Schedule:
