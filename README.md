@@ -5,7 +5,7 @@
 ### Schedule:
 * Introductions
 * Purpose 
-* *What exactly is My Nature Outing?* and Why code multimodal texts?* 
+* *What exactly is My Nature Outing?* and Why code multimodal texts?   
 * Text Editors - Setting up Atom for Windows and CodePad for Chromebooks 
 * README: getting started working with My Nature Outing
 * Digital Capture
@@ -43,7 +43,7 @@ Name, Pronouns, School, Grade Level, Subject
 
 ## *What exactly is My Nature Outing?...and why code multimodal texts?*   
 
-[Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/) 
+[Open Fuego Intro](https://sjquigley.github.io/Open-Fuego-Presentation/)
 
 [My Nature Study](https://sjquigley.github.io/mutimodal-nature-studies/)
 
@@ -121,7 +121,7 @@ Now let's go experiment.
 
 ## Lunch 12:00-12:50
 
-## Code Editing (Small Groups)
+## Code Editing
 
 ## Publishing to GitHub
 
