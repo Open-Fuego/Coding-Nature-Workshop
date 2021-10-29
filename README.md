@@ -16,10 +16,10 @@
 * Publishing to GitHub
 * Sharing Out
 * Reflection
-* Additional Resources
+* Additional Resources<p>&nbsp;</p>
 
 ## Introduction
-Name, Pronouns, School, Grade Level, Subject
+Name, Pronouns, School, Grade Level, Subject<p>&nbsp;</p>
 
 
 ## Purpose 
@@ -38,7 +38,7 @@ Name, Pronouns, School, Grade Level, Subject
 		* How can we use data to understand where (or how) environmental issues impact communities with high poverty more than other communities?
 		* What environmental justices/injustices exist in my community?
 		* How can we ensure everyone has a voice in the conversation about sustainability and protecting the environment?
-		* How do citizens use data to advocate for environmental needs in their community?
+		* How do citizens use data to advocate for environmental needs in their community?<p>&nbsp;</p>
 
 
 ## *What exactly is My Nature Outing?...and why code multimodal texts?*   
@@ -47,8 +47,7 @@ Name, Pronouns, School, Grade Level, Subject
 
 [My Nature Study](https://sjquigley.github.io/mutimodal-nature-studies/)
 
-
-Samples: https://elleryt.github.io/My-Nature-outing/
+[Student Template](https://open-fuego.github.io/my-nature-outing/)<p>&nbsp;</p>
 
 
 ## Text Editors 
@@ -78,13 +77,12 @@ Setting up Atom for Windows and CodePad for Chromebooks
 
 1. Download "**Code Pad Text Editor**" from Chrome Web Store. 
 1. From the dropdown menu, select **Editor>IDE Preferences**
-1. Toggle "**Word wrap limit**" to the middle value (this will force lines of code to conform to your viewer tab.)
+1. Toggle "**Word wrap limit**" to the middle value (this will force lines of code to conform to your viewer tab.)<p>&nbsp;</p>
 
 
 ## README: Get Started working with My Nature Outing
 
-1. Go to repository [My Nature Outing GitHub Repository](https://github.com/Open-Fuego/my-nature-outing)
-
+1. Go to repository [My Nature Outing GitHub Repository](https://github.com/Open-Fuego/my-nature-outing)<p>&nbsp;</p>
 
 
 
@@ -99,7 +97,7 @@ HTML requires **WAV** and **MP3** audio files. When capturing sounds in nature, 
 
 Again, you can always record audio in a range of formats including IOS default **M4A** and convert them to **MP3 files** 
 
-If you need to record audio directly onto your local computer for podcasts or otherwise, you can do so working directly from FREE mutitrack mixing programs like [Beautiful Audio Editor](https://chrome.google.com/webstore/detail/beautiful-audio-editor/okiblndpcefmebnkjnjfplijnelbcjmm?hl=en) (Chrome OS, Chrome Browser, and Android Support) or [Audacity](https://www.audacityteam.org) (Windows and Mac)
+If you need to record audio directly onto your local computer for podcasts or otherwise, you can do so working directly from FREE mutitrack mixing programs like [Beautiful Audio Editor](https://chrome.google.com/webstore/detail/beautiful-audio-editor/okiblndpcefmebnkjnjfplijnelbcjmm?hl=en) (Chrome OS, Chrome Browser, and Android Support) or [Audacity](https://www.audacityteam.org) (Windows and Mac)<p>&nbsp;</p>
 
 
 ## Nature Walk and Break
@@ -117,20 +115,20 @@ A quick lesson on on the photography principles and other concepts that will imp
 Now let's go experiment. 
 -Collect images
 -Collect Sounds
--Collect Words
+-Collect Words<p>&nbsp;</p>
 
 
 ## Lunch 12:00-12:50
-
+<p>&nbsp;</p>
 ## Code Editing
-
+<p>&nbsp;</p>
 ## Publishing to GitHub
 
-See the README (7-10) [My Nature Outing GitHub Repository](https://github.com/Open-Fuego/my-nature-outing)
+See the README (7-10) [My Nature Outing GitHub Repository](https://github.com/Open-Fuego/my-nature-outing)<p>&nbsp;</p>
 
 ## Sharing Out
 
-Let's share the URL to our Nature Outing.[Submit HERE](https://docs.google.com/presentation/d/1c3kWG7F4a_oJU62Eoxz9jOAXZ6S5KRp2CWUS5asbH0I/edit?usp=sharing)
+Let's share the URL to our Nature Outing.[Submit HERE](https://docs.google.com/presentation/d/1c3kWG7F4a_oJU62Eoxz9jOAXZ6S5KRp2CWUS5asbH0I/edit?usp=sharing)<p>&nbsp;</p>
 
 
 
@@ -150,10 +148,7 @@ Let's share the URL to our Nature Outing.[Submit HERE](https://docs.google.com/p
 		* How can we use data to understand where (or how) environmental issues impact communities with high poverty more than other communities?
 		* What environmental justices/injustices exist in my community?
 		* How can we ensure everyone has a voice in the conversation about sustainability and protecting the environment?
-		* How do citizens use data to advocate for environmental needs in their community?
-
-
-
+		* How do citizens use data to advocate for environmental needs in their community?<p>&nbsp;</p>
 
 
 ## Additional Resources
