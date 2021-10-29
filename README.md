@@ -153,8 +153,7 @@ Let's share the URL to our Nature Outing.[Submit HERE](https://docs.google.com/p
 
 ## Additional Resources
 - [Best Practices for Collaborating on GitHub](https://github.com/sjquigley/GitHub-in-the-Tech-Comm-Classroom)
-- [Open Fuego FAQ]()
-- [Open Fuego Teaching Best]()
+- [Open Fuego FAQ/Teaching Best Practices](https://open-fuego.github.io/Open-Fuego-Coding-Tools/)
 - [W3](w3.org) provides a wide range of code reference, tutorials, and a sandbox allowing code play.
 - [Stack Overflow](https://stackoverflow.com) Code questions and aggregated answers.
 
