@@ -102,7 +102,7 @@ Again, you can always record audio in a range of formats including IOS default *
 If you need to record audio directly onto your local computer for podcasts or otherwise, you can do so working directly from FREE mutitrack mixing programs like [Beautiful Audio Editor](https://chrome.google.com/webstore/detail/beautiful-audio-editor/okiblndpcefmebnkjnjfplijnelbcjmm?hl=en) (Chrome OS, Chrome Browser, and Android Support) or [Audacity](https://www.audacityteam.org) (Windows and Mac)
 
 
-##Nature Walk and Break
+## Nature Walk and Break
 
 A quick lesson on on the photography principles and other concepts that will improve your images.
 
