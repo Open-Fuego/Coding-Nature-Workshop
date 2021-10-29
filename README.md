@@ -88,7 +88,7 @@ Setting up Atom for Windows and CodePad for Chromebooks
 
 ## Digital Capture
 
-###(iPads, tablets, cellular phones, etc).
+### (iPads, tablets, cellular phones, etc).
 We'll want to record audio and take pictures to document our Nature Outing. Because HTML requires specific file formats, we will save time and better control our capture quality by adjusting our settings on the front-end. That said, you can take pictures and record audio in a variety of file formats, and later convert them using sites like [Cloud Convert](https://cloudconvert.com), 
 
 Set iPhone to shoot in **JPG**, an HTML compatable image file format. In **Settings**, change the image "**format**" to "**most compatible**." Android phones shoot **JPEG** by default. You can change **JPEG** to **JPG** by simply renaming the file.) 
